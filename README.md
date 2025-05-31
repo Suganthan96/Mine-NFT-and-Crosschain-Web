@@ -7,11 +7,6 @@
 - [Overview](#overview)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
-- [Smart Contract Structure](#smart-contract-structure)  
-- [Frontend Structure](#frontend-structure)  
-- [Getting Started](#getting-started)  
-- [How It Works](#how-it-works)  
-- [Folder Structure](#folder-structure)  
 
 ## Overview
 
