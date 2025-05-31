@@ -12,7 +12,6 @@
 - [Getting Started](#getting-started)  
 - [How It Works](#how-it-works)  
 - [Folder Structure](#folder-structure)  
-- [Future Improvements](#future-improvements)  
 
 ## Overview
 
