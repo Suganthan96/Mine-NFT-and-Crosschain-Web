@@ -2,12 +2,6 @@
 
 **MineNFT** is a full-stack decentralized application (dApp) designed to empower artists by enabling collaborative NFT minting and seamless revenue sharing through smart contracts. Built with modern Web3 tools, this project demonstrates token-gated access, multi-artist collaboration, and cross-chain NFT interoperability.
 
-## Table of Contents
-
-- [Overview](#overview)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-
 ## Overview
 
 **MineNFT** focuses on:
