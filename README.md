@@ -13,7 +13,6 @@
 - [How It Works](#how-it-works)  
 - [Folder Structure](#folder-structure)  
 - [Future Improvements](#future-improvements)  
-- [License](#license)
 
 ## Overview
 
